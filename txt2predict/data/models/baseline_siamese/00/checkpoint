@@ -1,0 +1,2 @@
+model_checkpoint_path: "baseline_siamese-00-19901"
+all_model_checkpoint_paths: "baseline_siamese-00-19901"
