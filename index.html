@@ -1,0 +1,15 @@
+---
+layout: default
+title: Capstone
+---
+
+{% for post in site.posts reversed %}
+
+<div>
+  <span class='post-title'>
+    <a href="{{ site.path }}{{ post.url }}">{{ post.title }}</a>
+  </span>
+</div>
+
+{% endfor %}
+

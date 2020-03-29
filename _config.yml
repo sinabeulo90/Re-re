@@ -1,0 +1,36 @@
+###########
+# site.title, site.url, site.author.name
+
+title:   'Re-re 개발 기록'
+author:
+  name:  'Seongmok Byeon'
+
+## note: 
+#  use site.path in your templates to make it work for both protocols e.g. http and https
+#  use site.url only inside the web feed template (e.g. requires full url incl. protocol)
+baseurl: ''
+path: ''
+url:  'https://smbyeon.github.io/Re-re'
+assets: 'assets'
+
+########
+# more settings
+
+markdown: kramdown
+highlighter: rouge
+
+sass:
+  sass_dir: css
+  style:    expanded
+
+permalink: date
+
+exclude:
+- README.md
+- vendor
+
+safe: false
+lsi: false
+
+plugins:
+  - jekyll-sitemap
