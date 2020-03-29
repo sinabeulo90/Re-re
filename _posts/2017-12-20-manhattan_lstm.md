@@ -3,7 +3,6 @@ layout: post
 title: "5. Manhattan LSTM Model"
 description : 문장과 문장의 유사성을 비교하기 위해서 Manhattan LSTM Model을 사용했습니다. 또한 Siamese LSTM, BiMPM 을 구현한 오픈소스를 사용해서 문장을 비교해보도록 하겠습니다.
 tag: capstone
-comments: false
 ---
 
 이번에는 문장과 문장의 연관성을 수치화시키기 위해 'Manhattan LSTM' 모델을 활용할 것입니다.

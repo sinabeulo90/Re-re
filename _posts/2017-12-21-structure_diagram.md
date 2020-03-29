@@ -3,7 +3,6 @@ layout: post
 title: "6. 시스템 구조도"
 description : 지금까지 구현한 코드를 모두 종합하여 기능을 구현해봅시다. 재료는 이미지와 임의의 문장입니다. 이미지를 입력하면 im2txt에서 Caption을 만들어내고 이를 임의의 문장와 비교해보기 위해 시스템의 구조를 간단히 만들어보겠습니다.
 tag: capstone
-comments: false
 ---
 
 지금까지 im2txt를 통해 이미지에서 Caption을 뽑아내어 문장을 얻어 내었고, Manhattan LSTM으로 서로 다른 문장의 연관성을 수치화해보았습니다.

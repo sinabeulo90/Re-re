@@ -3,7 +3,6 @@ layout: post
 title: "4. Show and Tell (im2txt)"
 description : TensorFlow의 여러가지 모델 중 im2txt의 사용을 해보겠습니다. Github의 사용법에 따라 실행하다보면 예기치 않은 오류가 발생하는데 그에 대한 원인과 해결방법을 알아보겠습니다.
 tag: capstone
-comments: true
 ---
 
 앞서 방법론에서 말씀드렸듯이 저희는 'Show and Tell'의 논문과 'Manhattan LSTM' 모델을 활용할 것입니다.

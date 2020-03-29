@@ -3,7 +3,6 @@ layout: post
 title: "1. 주제 선정"
 description: 저희 팀은 '자연어를 통한 영상검색 시스템' 이란 주제를 가지고 프로젝트를 진행하였습니다.
 tag: capstone
-comments: false
 ---
 
 ### 자연어를 통한 영상검색 시스템
