@@ -1,0 +1,362 @@
+0it [00:00, ?it/s]1110it [00:00, 11097.79it/s]2224it [00:00, 11116.30it/s]3330it [00:00, 11095.39it/s]4426it [00:00, 11059.81it/s]5549it [00:00, 11091.78it/s]6659it [00:00, 11092.24it/s]7763it [00:00, 11084.41it/s]8845it [00:00, 11050.93it/s]9902it [00:00, 10997.01it/s]11013it [00:01, 11008.01it/s]12128it [00:01, 11020.40it/s]13227it [00:01, 11017.68it/s]14334it [00:01, 11021.67it/s]15426it [00:01, 10956.35it/s]16495it [00:01, 10926.90it/s]17559it [00:01, 10888.24it/s]18614it [00:01, 10861.25it/s]19665it [00:01, 10814.48it/s]20719it [00:01, 10799.73it/s]21761it [00:02, 10771.95it/s]22844it [00:02, 10774.40it/s]23895it [00:02, 10761.19it/s]24965it [00:02, 10758.34it/s]26021it [00:02, 10745.34it/s]27076it [00:02, 10737.41it/s]28179it [00:02, 10748.41it/s]29275it [00:02, 10755.97it/s]30352it [00:02, 10746.25it/s]31424it [00:02, 10745.14it/s]32503it [00:03, 10746.53it/s]33597it [00:03, 10752.67it/s]34694it [00:03, 10759.40it/s]35799it [00:03, 10768.09it/s]36890it [00:03, 10608.79it/s]38008it [00:03, 10624.74it/s]39134it [00:03, 10641.95it/s]40233it [00:03, 10651.03it/s]41299it [00:03, 10650.72it/s]42370it [00:03, 10652.07it/s]43437it [00:04, 10643.81it/s]44494it [00:04, 10641.31it/s]45551it [00:04, 10639.47it/s]46607it [00:04, 10635.48it/s]47701it [00:04, 10642.21it/s]48767it [00:04, 10631.99it/s]49832it [00:04, 10632.37it/s]50903it [00:04, 10633.96it/s]51964it [00:04, 10630.45it/s]53045it [00:04, 10633.91it/s]54109it [00:05, 10578.14it/s]55105it [00:05, 10525.84it/s]56052it [00:05, 10464.12it/s]56949it [00:05, 10376.37it/s]57781it [00:05, 10315.27it/s]58590it [00:05, 10276.14it/s]59409it [00:05, 10240.14it/s]60218it [00:05, 10179.06it/s]61085it [00:06, 10153.96it/s]61891it [00:06, 10111.95it/s]62686it [00:06, 10069.03it/s]63558it [00:06, 10047.58it/s]64368it [00:06, 9985.31it/s] 65137it [00:06, 9862.10it/s]65821it [00:06, 9771.04it/s]66456it [00:06, 9692.67it/s]67059it [00:06, 9594.33it/s]67617it [00:07, 9499.13it/s]68138it [00:07, 9433.51it/s]69231it [00:07, 9453.88it/s]69936it [00:07, 9421.42it/s]70629it [00:07, 9351.04it/s]71274it [00:07, 9253.22it/s]71855it [00:07, 9197.04it/s]72593it [00:07, 9173.99it/s]73493it [00:08, 9171.48it/s]74296it [00:08, 9157.37it/s]75059it [00:08, 9138.75it/s]75920it [00:08, 9132.38it/s]76986it [00:08, 9150.49it/s]78065it [00:08, 9169.73it/s]79147it [00:08, 9188.81it/s]80191it [00:08, 9203.13it/s]81216it [00:08, 9214.95it/s]82288it [00:08, 9231.82it/s]83365it [00:09, 9248.83it/s]84477it [00:09, 9269.33it/s]85569it [00:09, 9287.21it/s]86640it [00:09, 9296.47it/s]87705it [00:09, 9310.77it/s]88789it [00:09, 9326.76it/s]89887it [00:09, 9343.92it/s]90962it [00:09, 9352.83it/s]92019it [00:09, 9358.45it/s]93055it [00:09, 9368.26it/s]94090it [00:10, 9376.72it/s]95136it [00:10, 9387.37it/s]96223it [00:10, 9401.84it/s]97274it [00:10, 9367.39it/s]98220it [00:10, 9361.46it/s]99146it [00:10, 9360.44it/s]100146it [00:10, 9366.39it/s]101094it [00:10, 9366.43it/s]102039it [00:10, 9361.83it/s]102968it [00:11, 9358.45it/s]103888it [00:11, 9339.49it/s]104761it [00:11, 9328.62it/s]105618it [00:11, 9317.04it/s]106461it [00:11, 9294.45it/s]107347it [00:11, 9290.60it/s]108175it [00:11, 9279.57it/s]108996it [00:11, 9266.90it/s]109807it [00:11, 9232.39it/s]110559it [00:12, 9184.33it/s]111242it [00:12, 9157.37it/s]112201it [00:12, 9160.89it/s]113176it [00:12, 9165.65it/s]114135it [00:12, 9168.98it/s]115065it [00:12, 9170.02it/s]115947it [00:12, 9144.63it/s]116813it [00:12, 9140.86it/s]117646it [00:12, 9083.79it/s]118375it [00:13, 9041.79it/s]119041it [00:13, 9005.83it/s]119665it [00:13, 8969.79it/s]120255it [00:13, 8938.80it/s]120826it [00:13, 8907.23it/s]121727it [00:13, 8907.98it/s]122686it [00:13, 8912.92it/s]123599it [00:13, 8914.39it/s]124528it [00:13, 8917.04it/s]125421it [00:14, 8916.97it/s]126362it [00:14, 8920.46it/s]127242it [00:14, 8917.80it/s]128114it [00:14, 8885.93it/s]128900it [00:14, 8846.45it/s]129604it [00:14, 8823.09it/s]130276it [00:14, 8801.28it/s]130940it [00:14, 8786.69it/s]131594it [00:15, 8765.89it/s]132230it [00:15, 8740.25it/s]132992it [00:15, 8732.82it/s]133804it [00:15, 8728.83it/s]134730it [00:15, 8732.15it/s]135598it [00:15, 8731.83it/s]136525it [00:15, 8735.24it/s]137386it [00:15, 8734.38it/s]138290it [00:15, 8736.29it/s]139152it [00:15, 8733.80it/s]140080it [00:16, 8737.21it/s]140956it [00:16, 8725.15it/s]141784it [00:16, 8696.56it/s]142531it [00:16, 8670.61it/s]143220it [00:16, 8650.05it/s]143877it [00:16, 8636.23it/s]144618it [00:16, 8628.91it/s]145356it [00:16, 8621.48it/s]146053it [00:17, 8582.72it/s]146700it [00:17, 8570.36it/s]147573it [00:17, 8571.28it/s]148476it [00:17, 8573.80it/s]149364it [00:17, 8575.60it/s]150220it [00:17, 8575.45it/s]151104it [00:17, 8576.99it/s]151950it [00:17, 8576.25it/s]152879it [00:17, 8580.27it/s]153746it [00:17, 8577.52it/s]154646it [00:18, 8579.83it/s]155539it [00:18, 8581.76it/s]156413it [00:18, 8577.48it/s]157295it [00:18, 8578.82it/s]158180it [00:18, 8580.27it/s]159067it [00:18, 8581.82it/s]159940it [00:18, 8581.96it/s]160826it [00:18, 8583.45it/s]161700it [00:18, 8568.09it/s]162506it [00:19, 8551.59it/s]163255it [00:19, 8538.42it/s]163971it [00:19, 8530.14it/s]164682it [00:19, 8501.02it/s]165323it [00:19, 8438.17it/s]165859it [00:19, 8345.13it/s]166291it [00:20, 8283.64it/s]166659it [00:20, 8242.85it/s]167034it [00:20, 8220.71it/s]167381it [00:20, 8189.90it/s]167711it [00:20, 8156.03it/s]168086it [00:20, 8134.69it/s]168579it [00:20, 8119.26it/s]169333it [00:20, 8116.47it/s]170132it [00:20, 8115.82it/s]171020it [00:21, 8119.38it/s]171883it [00:21, 8121.79it/s]172700it [00:21, 8122.02it/s]173554it [00:21, 8123.94it/s]174442it [00:21, 8127.44it/s]175259it [00:21, 8127.29it/s]176074it [00:21, 8126.69it/s]176933it [00:21, 8128.82it/s]177790it [00:21, 8130.81it/s]178695it [00:21, 8135.00it/s]179553it [00:22, 8137.01it/s]180435it [00:22, 8140.04it/s]181304it [00:22, 8142.52it/s]182189it [00:22, 8145.65it/s]183060it [00:22, 8136.45it/s]183982it [00:22, 8141.23it/s]184923it [00:22, 8146.77it/s]185865it [00:22, 8152.35it/s]186788it [00:22, 8157.04it/s]187710it [00:22, 8161.66it/s]188618it [00:23, 8165.15it/s]189522it [00:23, 8162.07it/s]190382it [00:23, 8161.16it/s]191252it [00:23, 8163.46it/s]192102it [00:23, 8163.60it/s]192943it [00:23, 8163.21it/s]193890it [00:23, 8168.69it/s]194803it [00:23, 8172.71it/s]195683it [00:23, 8173.71it/s]196568it [00:24, 8176.49it/s]197541it [00:24, 8182.92it/s]198444it [00:24, 8184.25it/s]199331it [00:24, 8186.46it/s]200214it [00:24, 8188.42it/s]201092it [00:24, 8182.77it/s]201919it [00:24, 8180.87it/s]202730it [00:24, 8175.35it/s]203521it [00:24, 8174.27it/s]204303it [00:25, 8169.09it/s]205061it [00:25, 8153.04it/s]205752it [00:25, 8144.59it/s]206422it [00:25, 8136.31it/s]207077it [00:25, 8129.18it/s]207906it [00:25, 8129.78it/s]208737it [00:25, 8130.47it/s]209689it [00:25, 8135.85it/s]210561it [00:25, 8138.09it/s]211501it [00:25, 8142.94it/s]212448it [00:26, 8147.99it/s]213352it [00:26, 8151.39it/s]214260it [00:26, 8154.91it/s]215156it [00:26, 8153.76it/s]216020it [00:26, 8145.54it/s]216820it [00:26, 8107.30it/s]217488it [00:26, 8074.61it/s]218060it [00:27, 8048.20it/s]218569it [00:27, 8032.85it/s]219058it [00:27, 8018.16it/s]219533it [00:27, 8005.71it/s]220142it [00:27, 7998.72it/s]221040it [00:27, 8002.22it/s]221769it [00:27, 7999.66it/s]222563it [00:27, 7999.29it/s]223391it [00:27, 8000.29it/s]224217it [00:28, 8001.21it/s]224995it [00:28, 8000.42it/s]225763it [00:28, 7996.64it/s]226512it [00:28, 7993.94it/s]227254it [00:28, 7989.19it/s]227976it [00:28, 7985.29it/s]228784it [00:28, 7985.60it/s]229698it [00:28, 7989.59it/s]230621it [00:28, 7993.89it/s]231453it [00:28, 7994.02it/s]232277it [00:29, 7992.25it/s]233080it [00:29, 7991.80it/s]233927it [00:29, 7993.41it/s]234801it [00:29, 7995.92it/s]235641it [00:29, 7997.12it/s]236473it [00:29, 7993.27it/s]237354it [00:29, 7995.97it/s]238277it [00:29, 8000.12it/s]239159it [00:29, 8002.86it/s]240086it [00:29, 8007.08it/s]240966it [00:30, 8005.95it/s]241814it [00:30, 8006.58it/s]242704it [00:30, 8009.51it/s]243558it [00:30, 8009.61it/s]244398it [00:30, 8008.89it/s]245220it [00:30, 8006.86it/s]246088it [00:30, 8009.02it/s]246908it [00:30, 8007.46it/s]247778it [00:30, 8009.67it/s]248612it [00:31, 8010.73it/s]249527it [00:31, 8014.37it/s]250393it [00:31, 8016.42it/s]251249it [00:31, 8016.92it/s]252093it [00:31, 8017.45it/s]252930it [00:31, 8018.18it/s]253806it [00:31, 8020.52it/s]254652it [00:31, 8021.77it/s]255554it [00:31, 8024.89it/s]256416it [00:31, 8026.29it/s]257274it [00:32, 8027.10it/s]258123it [00:32, 8028.27it/s]258995it [00:32, 8030.41it/s]259849it [00:32, 8030.72it/s]260691it [00:32, 8031.29it/s]261617it [00:32, 8035.05it/s]262515it [00:32, 8037.93it/s]263428it [00:32, 8041.23it/s]264318it [00:32, 8043.83it/s]265204it [00:32, 8045.26it/s]266088it [00:33, 8047.65it/s]266966it [00:33, 8049.68it/s]267842it [00:33, 8050.97it/s]268709it [00:33, 8051.66it/s]269612it [00:33, 8054.56it/s]270489it [00:33, 8056.69it/s]271390it [00:33, 8059.52it/s]272298it [00:33, 8062.53it/s]273187it [00:33, 8062.90it/s]274084it [00:33, 8065.57it/s]274993it [00:34, 8068.55it/s]275904it [00:34, 8071.55it/s]276797it [00:34, 8073.95it/s]277689it [00:34, 8076.00it/s]278577it [00:34, 8075.87it/s]279480it [00:34, 8078.57it/s]280356it [00:34, 8080.53it/s]281239it [00:34, 8082.68it/s]282119it [00:34, 8084.73it/s]282997it [00:34, 8086.61it/s]283874it [00:35, 8086.49it/s]284784it [00:35, 8089.37it/s]285669it [00:35, 8091.50it/s]286557it [00:35, 8093.71it/s]287436it [00:35, 8094.63it/s]288324it [00:35, 8096.82it/s]289198it [00:35, 8097.94it/s]290064it [00:35, 8099.03it/s]290949it [00:35, 8101.12it/s]291845it [00:36, 8103.49it/s]292722it [00:36, 8104.61it/s]293591it [00:36, 8105.73it/s]294508it [00:36, 8108.63it/s]295403it [00:36, 8110.92it/s]296291it [00:36, 8113.01it/s]297176it [00:36, 8113.88it/s]298048it [00:36, 8113.46it/s]298898it [00:36, 8113.75it/s]299739it [00:36, 8114.05it/s]300600it [00:37, 8115.40it/s]301484it [00:37, 8117.31it/s]302339it [00:37, 8118.17it/s]303191it [00:37, 8119.03it/s]304041it [00:37, 8119.41it/s]304913it [00:37, 8120.97it/s]305798it [00:37, 8122.87it/s]306659it [00:37, 8123.29it/s]307529it [00:37, 8124.81it/s]308386it [00:37, 8125.16it/s]309262it [00:38, 8126.84it/s]310131it [00:38, 8128.30it/s]310991it [00:38, 8129.22it/s]311871it [00:38, 8130.97it/s]312735it [00:38, 8132.10it/s]313597it [00:38, 8131.81it/s]314472it [00:38, 8133.39it/s]315355it [00:38, 8135.15it/s]316245it [00:38, 8137.12it/s]317195it [00:38, 8140.59it/s]318113it [00:39, 8143.24it/s]319014it [00:39, 8144.36it/s]319902it [00:39, 8146.06it/s]320803it [00:39, 8148.24it/s]321719it [00:39, 8150.80it/s]322617it [00:39, 8152.32it/s]323508it [00:39, 8154.13it/s]324398it [00:39, 8155.65it/s]325307it [00:39, 8157.98it/s]326200it [00:39, 8159.29it/s]327131it [00:40, 8162.12it/s]328081it [00:40, 8165.44it/s]328995it [00:40, 8167.54it/s]329905it [00:40, 8169.72it/s]330839it [00:40, 8172.59it/s]331766it [00:40, 8175.29it/s]332685it [00:40, 8177.52it/s]333605it [00:40, 8180.02it/s]334528it [00:40, 8182.57it/s]335447it [00:40, 8184.87it/s]336370it [00:41, 8187.41it/s]337289it [00:41, 8187.82it/s]338183it [00:41, 8188.43it/s]339061it [00:41, 8189.09it/s]339929it [00:41, 8185.01it/s]340743it [00:41, 8183.33it/s]341539it [00:41, 8180.26it/s]342308it [00:41, 8177.70it/s]343062it [00:41, 8172.78it/s]343782it [00:42, 8168.40it/s]344482it [00:42, 8165.61it/s]345214it [00:42, 8163.60it/s]346042it [00:42, 8163.80it/s]346786it [00:42, 8154.07it/s]347735it [00:42, 8157.21it/s]348705it [00:42, 8160.81it/s]349528it [00:42, 8159.50it/s]350333it [00:42, 8153.98it/s]351086it [00:43, 8145.18it/s]352110it [00:43, 8150.02it/s]353052it [00:43, 8152.94it/s]354049it [00:43, 8157.11it/s]354933it [00:43, 8151.76it/s]355766it [00:43, 8152.16it/s]356754it [00:43, 8156.10it/s]357649it [00:43, 8157.90it/s]358576it [00:43, 8160.43it/s]359610it [00:44, 8165.36it/s]360698it [00:44, 8171.51it/s]361679it [00:44, 8174.18it/s]362791it [00:44, 8180.81it/s]363800it [00:44, 8178.31it/s]364728it [00:44, 8176.81it/s]365668it [00:44, 8179.54it/s]366703it [00:44, 8184.37it/s]367705it [00:44, 8188.46it/s]368663it [00:45, 8190.94it/s]369612it [00:45, 8177.62it/s]370426it [00:45, 8175.25it/s]371213it [00:45, 8173.30it/s]372008it [00:45, 8172.78it/s]372821it [00:45, 8172.67it/s]373719it [00:45, 8174.42it/s]374591it [00:45, 8175.59it/s]375464it [00:45, 8176.78it/s]376487it [00:46, 8181.24it/s]377387it [00:46, 8178.25it/s]378433it [00:46, 8183.18it/s]379497it [00:46, 8188.47it/s]380547it [00:46, 8193.44it/s]381642it [00:46, 8199.35it/s]382744it [00:46, 8205.38it/s]383785it [00:46, 8200.67it/s]384717it [00:46, 8187.84it/s]385519it [00:47, 8175.59it/s]386223it [00:47, 8165.43it/s]386862it [00:47, 8156.92it/s]387460it [00:47, 8151.41it/s]388224it [00:47, 8150.33it/s]388960it [00:47, 8148.66it/s]389630it [00:47, 8142.82it/s]390410it [00:47, 8142.11it/s]391175it [00:48, 8141.07it/s]391883it [00:48, 8138.74it/s]392817it [00:48, 8141.22it/s]393592it [00:48, 8140.26it/s]394365it [00:48, 8135.79it/s]395097it [00:48, 8130.76it/s]396097it [00:48, 8134.59it/s]397050it [00:48, 8137.44it/s]397967it [00:48, 8139.54it/s]398864it [00:48, 8141.23it/s]399879it [00:49, 8145.32it/s]400000it [00:49, 8145.80it/s]
+UNUSED VALUES IN CONFIG DICT: {'batch_size': 128, 'dataindexer_load_path': 'data/models/baseline_siamese/00/baseline_siamese-00-DataManager.pkl', 'early_stopping_patience': 0, 'log_dir': 'logs/', 'log_period': 10, 'model_load_dir': 'data/models/baseline_siamese/00', 'model_name': 'predict_model', 'num_epochs': 10, 'num_sentence_words': 30, 'pretrained_embeddings_file_path': 'data/glove.6B.300d.txt', 'reweight_predictions_for_kaggle': False, 'run_id': '99', 'test_file': 'test_final2.csv', 'val_period': 250}
+/home/byeon/anaconda3/envs/py3/lib/python3.6/site-packages/tensorflow/python/ops/gradients_impl.py:93: UserWarning: Converting sparse IndexedSlices to a dense Tensor of unknown shape. This may consume a large amount of memory.
+  "Converting sparse IndexedSlices to a dense Tensor of unknown shape. "
+  0%|          | 0/169 [00:00<?, ?it/s]100%|██████████| 169/169 [00:00<00:00, 535780.33it/s]
+  0%|          | 0/169 [00:00<?, ?it/s]100%|██████████| 169/169 [00:00<00:00, 2326.32it/s]
+  0%|          | 0/169 [00:00<?, ?it/s]100%|██████████| 169/169 [00:00<00:00, 6159.04it/s]2017-11-03 01:22:40.144620: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+2017-11-03 01:22:40.144777: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-11-03 01:22:40.144797: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+2017-11-03 01:22:40.144807: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-11-03 01:22:40.144818: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+
+Test Batches Completed:   0%|          | 0/2 [00:00<?, ?it/s]Test Batches Completed:  50%|█████     | 1/2 [00:01<00:01,  1.59s/it]Test Batches Completed: 100%|██████████| 2/2 [00:02<00:00,  1.10s/it]('a man is flying through the air on a snowboard .',) 0.0016258836258202791
+('a person flying through the air while riding a snowboard .',) 0.001835340983234346
+('a person holding a pair of scissors in their hands .',) 0.006433543749153614
+('a man in a white shirt and tie in a room .',) 0.0018580718897283077
+('a woman holding a kite in her hand .',) 0.0068954406306147575
+('a woman standing in front of a white building .',) 0.000675475865136832
+('a close up of a person on a motorcycle',) 1.052169409376802e-05
+('a woman wearing sunglasses and a hat on her head .',) 1.0
+('a woman wearing sunglasses and a hat on her head .',)
+('a woman wearing sunglasses and a hat and sunglasses .',) 0.012021079659461975
+('a man wearing sunglasses and a hat and sunglasses .',) 9.316744399257004e-05
+('a man wearing sunglasses and a tie is smiling .',) 0.004737087059766054
+('a woman holding a tennis racket in her hand .',) 0.019147522747516632
+('a woman wearing a white shirt and tie .',) 0.00891538243740797
+('a woman holding a kite in front of a crowd of people .',) 0.005665873177349567
+('a woman holding an umbrella in the rain .',) 0.0013045710511505604
+('a woman sitting on the floor under an umbrella .',) 0.001893655746243894
+('a group of people walking down a street holding umbrellas .',) 0.00046547711826860905
+('a group of people sitting on top of a sandy beach .',) 0.000586389098316431
+('a group of people standing in front of a train .',) 0.00023743126075714827
+('a group of people standing around a horse .',) 0.00034017988946288824
+('a group of people standing around a train .',) 0.00023425358813256025
+('a group of people sitting on a bench .',) 0.00022298282419797033
+('a woman in a blue dress holding a pink frisbee .',) 0.0010801134631037712
+('a man walking down a sidewalk next to a tall building .',) 0.0007027223473414779
+('a man on a skateboard in front of a building .',) 0.00019792823877651244
+('a brown horse standing next to a wooden fence .',) 0.0036463032010942698
+('a man and a woman sitting on a beach .',) 0.001472810166887939
+('a woman is talking on her cell phone',) 0.0012780532706528902
+('a man standing in front of a train station .',) 0.0004465018573682755
+('a man in a white shirt and tie standing in a room .',) 0.0026284675113856792
+('a large building with a clock on it',) 1.7384641978424042e-05
+('a group of people walking down a street .',) 7.200666004791856e-05
+('a group of people standing on top of a beach .',) 0.00020715294522233307
+('a man is holding a skateboard in the air .',) 0.0016615916974842548
+('a man in a suit and tie standing in the snow .',) 0.001312665524892509
+('a man holding a snow board in the snow .',) 0.0007820016471669078
+('a statue of a person holding a white umbrella .',) 0.00011025542335119098
+('a group of people standing in the water .',) 7.231712515931576e-05
+('a couple of women standing next to each other .',) 0.001753038726747036
+('a group of people standing next to each other .',) 0.0001086117626982741
+('a man and woman in a wedding dress .',) 0.0035088437143713236
+('a man wearing a hat and a bow tie .',) 0.006946844980120659
+('a man in a suit and bow tie is smiling .',) 0.005450007505714893
+('a bride and groom standing next to each other .',) 0.0004401207552291453
+('a couple of women sitting on a wooden bench .',) 0.0209184717386961
+('a man and a woman sitting on a bed .',) 0.0037984023801982403
+('a couple of men sitting on top of a wooden bench .',) 0.004239104222506285
+('two men sitting on a bench in a park .',) 0.00038878011400811374
+('a man and woman standing next to each other .',) 0.0005261829937808216
+('a woman is walking down the street with a cell phone .',) 0.0026683248579502106
+('a baseball player holding a bat on a field .',) 0.00022582685051020235
+('a group of young men sitting on top of a wooden bench .',) 0.0007549604051746428
+('a couple of women sitting next to each other .',) 0.0027463119477033615
+('a man and a woman standing in a room .',) 0.0014983785804361105
+('a man in a suit and tie standing in front of a building .',) 0.0008280181791633368
+('a man and a woman in a room .',) 0.0010255099041387439
+('a man holding a tennis racquet on a tennis court .',) 0.00028232389013282955
+('a man holding a baseball bat in his hands .',) 0.000510570069309324
+('a man in a suit and tie standing in a field .',) 0.0009591862908564508
+('a man holding a baseball bat on a field .',) 0.00043598859338089824
+('a man and a woman standing next to each other .',) 0.0005730725824832916
+('a man wearing a bow tie and a bow tie .',) 0.003887716680765152
+('a man wearing a bow tie and a hat .',) 0.009794685058295727
+('a group of people standing in front of a building .',) 0.00010246071906294674
+('a group of people standing around a building .',) 9.06020577531308e-05
+('a group of people playing a game of basketball .',) 0.00010103024396812543
+('a group of men standing next to each other .',) 0.000156614143634215
+('a woman standing on a sidewalk next to a street .',) 0.0007758998544886708
+('a group of young people playing a game of frisbee .',) 8.859808986017015e-06
+('a woman in a red shirt is playing frisbee',) 0.001144972164183855
+('a person on a skateboard on a street .',) 3.289507731096819e-05
+('a group of young men standing next to each other .',) 0.00018086946511175483
+('a woman in a dress holding a teddy bear .',) 0.0013204701244831085
+('a woman in a red dress is playing tennis .',) 0.0061963642947375774
+('a woman in a red dress standing in front of a building .',) 0.0050950502045452595
+('a group of people riding horses down a dirt road .',) 0.0007416430162265897
+('a group of people standing on top of a sandy beach .',) 0.0004810474347323179
+('a group of people sitting in a room .',) 0.00025696217198856175
+('a man and a woman sitting on a couch .',) 0.004595260601490736
+('a woman in a red shirt and a black tie',) 3.4425935155013576e-05
+('a small boat in a body of water',) 3.1602826311427634e-06
+('a man is riding a boat in the water .',) 0.0014120263513177633
+('a woman is holding a tennis racket on a court',) 0.00021596280566882342
+('a woman in a red shirt is playing tennis',) 0.001144972164183855
+('a woman holding a red and white surfboard .',) 0.001453380798920989
+('a man and a woman standing on a field with a frisbee .',) 0.00014734093565493822
+('a group of people standing in a room .',) 0.0002587903290987015
+('a man standing in front of a train .',) 0.00045452636550180614
+('a woman in a red dress standing in front of a bus .',) 0.0027726225089281797
+('a man in a suit and tie standing next to a woman .',) 0.0027060534339398146
+('a group of people playing a game of tennis .',) 0.00047579765669070184
+('a group of people standing around a luggage carousel .',) 0.0011188352946192026
+('a little boy standing in front of an open refrigerator .',) 0.0014532719505950809
+('a woman walking down the street with a suitcase .',) 0.0007593831978738308
+('a group of people standing on a sidewalk .',) 0.00013583408144768327
+('a man and a woman walking down a street .',) 0.0008688776288181543
+('a picture of a man in a suit and tie .',) 0.0005922361160628498
+('a little girl sitting on top of a white toilet .',) 0.0021545886993408203
+('a little boy sitting on a toilet seat .',) 0.0021610411349684
+('a woman standing in front of a refrigerator .',) 0.0020336664747446775
+('a woman sitting on a bed next to a teddy bear .',) 0.005448729265481234
+('a woman sitting in a chair holding a teddy bear .',) 0.029101930558681488
+('a little girl standing in front of a refrigerator .',) 0.0027649046387523413
+('a woman is standing in front of a mirror',) 0.0005212955293245614
+('a bathroom with a shower and a sink .',) 0.000928926223423332
+('a man standing next to a train on a train track .',) 0.000207890901947394
+('a man is standing in front of a truck',) 5.285858424031176e-05
+('a man sitting in the back of a red truck .',) 0.00041703085298649967
+('a small dog is sitting in the back of a car .',) 0.00240714312531054
+('a man sitting in the back of a truck .',) 0.00026228686328977346
+('a man standing in front of a bathroom mirror .',) 0.0022252199705690145
+('a woman holding a cell phone in her hand .',) 0.00820636935532093
+('a group of people sitting on a bus .',)
+  0%|          | 0/169 [00:00<?, ?it/s]100%|██████████| 169/169 [00:00<00:00, 965718.50it/s]
+  0%|          | 0/169 [00:00<?, ?it/s]100%|██████████| 169/169 [00:00<00:00, 2818.26it/s]
+  0%|          | 0/169 [00:00<?, ?it/s]100%|██████████| 169/169 [00:00<00:00, 10092.51it/s]
+Test Batches Completed:   0%|          | 0/2 [00:00<?, ?it/s]Test Batches Completed:  50%|█████     | 1/2 [00:01<00:01,  1.65s/it]Test Batches Completed: 100%|██████████| 2/2 [00:02<00:00,  1.12s/it] 8.268195961136371e-05
+('a woman in a white shirt and a black tie',) 1.9444171357463347e-06
+('a woman sitting in a chair in a room .',) 0.042495690286159515
+('a woman sitting on a train with her legs crossed .',) 0.02310667373239994
+('a woman in a white shirt is holding a cellphone',) 9.919222793541849e-05
+('a woman in a dress holding a cell phone .',) 0.0029398712795227766
+('a man and a woman are looking at a cell phone .',) 0.001886716578155756
+('a woman in a white dress and a man with a tie .',) 0.002581002190709114
+('a young boy in the water with a boogie board .',) 8.203735342249274e-05
+('a young boy is holding a boogie board .',) 5.5013326345942914e-05
+('a blue and white vase sitting on top of a table .',) 0.00017327167734038085
+('a large swimming pool in the water .',) 0.0001479258935432881
+('a city street filled with lots of traffic .',) 0.00038294229307211936
+('a young boy is sitting on a surfboard .',) 7.576553616672754e-05
+('a man and a dog are swimming in the water .',) 0.0008775008609518409
+('a group of women standing next to each other .',) 0.00036426796577870846
+('a group of young people standing next to each other .',) 0.00011256659490754828
+('a group of people standing on top of a tennis court .',) 0.000819443492218852
+('a young boy riding a surfboard on a wave .',) 0.00011513584468048066
+('a man riding a wave on top of a surfboard .',) 0.00017535917868372053
+('a group of people in a pool playing with a frisbee .',) 1.858698669821024e-05
+('a woman and a man are standing in a room .',) 0.002314346842467785
+('a bride and groom cut their wedding cake .',) 0.002050135750323534
+('a man in a black shirt and a tie .',) 0.00037141720531508327
+('a man wearing glasses and a tie is smiling .',) 0.012401764281094074
+('a man wearing a white shirt and tie .',) 0.001139853848144412
+('a man wearing glasses and a hat on a motorcycle .',) 0.0016784025356173515
+('a woman in a black shirt and a black tie',) 2.301311269548023e-06
+('a young boy is brushing his teeth in the mirror .',) 0.004263637587428093
+('a woman wearing a tie and a dress shirt .',) 0.018560877069830894
+('a woman sitting on a toilet in a bathroom .',) 0.006466643884778023
+('a crowd of people standing around a building .',) 0.00037104939110577106
+('a group of people standing on a street holding umbrellas .',) 0.000266741233645007
+('a group of people standing on a street holding kites .',) 0.0005468037561513484
+('a group of people standing around a large group of people .',) 3.912755710189231e-05
+('a woman in a white dress holding a pink umbrella .',) 0.0012574323918670416
+('a crowd of people standing around a stage .',) 0.0004509075661189854
+('a group of young men playing a game of soccer .',) 7.495882891817018e-05
+('a group of people on a stage with a group of people .',) 2.4179991669370793e-05
+('a close up of a person holding a pair of scissors',) 3.3044980227714404e-05
+('a couple of people standing next to each other .',) 0.00042984852916561067
+('a woman standing next to a man on a train .',) 0.0013652811758220196
+('a man standing next to a woman in a train station .',) 0.0008877931977622211
+('a man standing next to a luggage cart .',) 0.0015790454344823956
+('a man standing on a sidewalk holding a skateboard .',) 0.00013937499898020178
+('a woman standing in front of an airport terminal .',) 0.0056857275776565075
+('a couple of men standing next to each other .',) 0.000851677730679512
+('a group of people standing around a luggage cart .',) 0.0007468344992958009
+('a woman standing in a room with a suitcase .',) 0.002992217894643545
+('a man and a woman standing next to a train .',) 0.0008427270222455263
+('a woman standing on a sidewalk talking on a cell phone .',) 0.0040959701873362064
+('a group of people standing on a tennis court .',) 0.0009715377236716449
+('a group of people standing around a giant clock .',) 0.0006016592960804701
+('a collage of photos with a bunch of signs',) 9.24703181226505e-06
+('a collage of photos with a clock on a wall',) 1.851719025580678e-05
+('a collage of photos with a lot of people',) 9.99999993922529e-09
+('a collage of photos with a clock and a sign',) 2.306788883288391e-05
+('a man is flying through the air on a snowboard .',) 1.0016917961763738e-08
+('a person flying through the air while riding a snowboard .',) 1.0005824613301684e-08
+('a person holding a pair of scissors in their hands .',) 1.0040672293598618e-08
+('a man in a white shirt and tie in a room .',) 1.0052998433707216e-08
+('a woman holding a kite in her hand .',) 1.003453586889691e-08
+('a woman standing in front of a white building .',) 1.0063036626206667e-08
+('a close up of a person on a motorcycle',) 1.001087124308242e-08
+('a woman wearing sunglasses and a hat on her head .',) 1.0012920270696668e-08
+('a woman wearing sunglasses and a hat and sunglasses .',) 1.0012725759622754e-08
+('a man wearing sunglasses and a hat and sunglasses .',) 1.0003430084282172e-08
+('a man wearing sunglasses and a tie is smiling .',) 1.0006681705476694e-08
+('a woman holding a tennis racket in her hand .',) 1.0001385497560022e-08
+('a woman wearing a white shirt and tie .',) 1.0095704716661658e-08
+('a woman holding a kite in front of a crowd of people .',) 1.003003369248745e-08
+('a woman holding an umbrella in the rain .',) 1.0011317996827529e-08
+('a woman sitting on the floor under an umbrella .',) 1.0029840069591955e-08
+('a group of people walking down a street holding umbrellas .',) 1.0012178641716218e-08
+('a group of people sitting on top of a sandy beach .',) 1.0049643783816009e-08
+('a group of people standing in front of a train .',) 1.0031579122937728e-08
+('a group of people standing around a horse .',) 1.0016058205053469e-08
+('a group of people standing around a train .',) 1.002728033938638e-08
+('a group of people sitting on a bench .',) 1.0021145691041511e-08
+('a woman in a blue dress holding a pink frisbee .',) 1.0067846112349343e-08
+('a man walking down a sidewalk next to a tall building .',) 1.0003628148069765e-08
+('a man on a skateboard in front of a building .',) 1.0020126062215695e-08
+('a brown horse standing next to a wooden fence .',) 1.0007133788292322e-08
+('a man and a woman sitting on a beach .',) 1.0077917167450323e-08
+('a woman is talking on her cell phone',) 1.0071873113304264e-08
+('a man standing in front of a train station .',) 1.0029459041049904e-08
+('a man in a white shirt and tie standing in a room .',) 1.0046721676815196e-08
+('a large building with a clock on it',) 1.0004309380917675e-08
+('a group of people walking down a street .',) 1.0019839180586132e-08
+('a group of people standing on top of a beach .',) 1.0021033780560629e-08
+('a man is holding a skateboard in the air .',) 1.0010138495886167e-08
+('a man in a suit and tie standing in the snow .',) 1.0003476269559997e-08
+('a man holding a snow board in the snow .',) 1.0002410455456356e-08
+('a statue of a person holding a white umbrella .',) 1.001084282137299e-08
+('a group of people standing in the water .',) 1.0021333096688068e-08
+('a couple of women standing next to each other .',) 1.0054481691668116e-08
+('a group of people standing next to each other .',) 1.0013698314992325e-08
+('a man and woman in a wedding dress .',) 1.006451189056179e-08
+('a man wearing a hat and a bow tie .',) 1.000666305372988e-08
+('a man in a suit and bow tie is smiling .',) 1.0008018413998343e-08
+('a bride and groom standing next to each other .',) 1.0031976138691334e-08
+('a couple of women sitting on a wooden bench .',) 1.003406424615605e-08
+('a man and a woman sitting on a bed .',) 1.0052744414679182e-08
+('a couple of men sitting on top of a wooden bench .',) 1.0010882789401876e-08
+('two men sitting on a bench in a park .',) 1.0002827899313615e-08
+('a man and woman standing next to each other .',) 1.0053645915775178e-08
+('a woman is walking down the street with a cell phone .',) 1.0027045860283579e-08
+('a baseball player holding a bat on a field .',) 1.0007624062779996e-08
+('a group of young men sitting on top of a wooden bench .',) 1.0007486395124943e-08
+('a couple of women sitting next to each other .',) 1.0063522459802243e-08
+('a man and a woman standing in a room .',) 1.0106660397468659e-08
+('a man in a suit and tie standing in front of a building .',) 1.0024426622123883e-08
+('a man and a woman in a room .',) 1.0120745130848263e-08
+('a man holding a tennis racquet on a tennis court .',) 1.0000051453573633e-08
+('a man holding a baseball bat in his hands .',) 1.0021010687921716e-08
+('a man in a suit and tie standing in a field .',) 1.0021196317211434e-08
+('a man holding a baseball bat on a field .',) 1.0018566420910702e-08
+('a man and a woman standing next to each other .',) 1.0056079524645156e-08
+('a man wearing a bow tie and a bow tie .',) 1.0001459216368858e-08
+('a man wearing a bow tie and a hat .',) 1.0005160255843748e-08
+('a group of people standing in front of a building .',) 1.0031707020630165e-08
+('a group of people standing around a building .',) 1.002538141392506e-08
+('a group of people playing a game of basketball .',) 1.0012561446615109e-08
+('a group of men standing next to each other .',) 1.0024548302567382e-08
+('a woman standing on a sidewalk next to a street .',) 1.0050014154217024e-08
+('a group of young people playing a game of frisbee .',) 1.0017810581075537e-08
+('a woman in a red shirt is playing frisbee',) 1.004943506188738e-08
+('a person on a skateboard on a street .',) 1.0017982887688959e-08
+('a group of young men standing next to each other .',) 1.0024364449634504e-08
+('a woman in a dress holding a teddy bear .',) 1.0038665010370096e-08
+('a woman in a red dress is playing tennis .',) 1.0016835361170706e-08
+('a woman in a red dress standing in front of a building .',) 1.0036219855180661e-08
+('a group of people riding horses down a dirt road .',) 1.0007711992443546e-08
+('a group of people standing on top of a sandy beach .',) 1.0033920361252058e-08
+('a group of people sitting in a room .',) 1.0037509490246066e-08
+('a man and a woman sitting on a couch .',) 1.002887906054184e-08
+('a woman in a red shirt and a black tie',) 1.0001164341133517e-08
+('a small boat in a body of water',) 1.0004012729325495e-08
+('a man is riding a boat in the water .',) 1.0015824614129087e-08
+('a woman is holding a tennis racket on a court',) 1.0000412054012031e-08
+('a woman in a red shirt is playing tennis',) 1.004943506188738e-08
+('a woman holding a red and white surfboard .',) 1.012108086229091e-08
+('a man and a woman standing on a field with a frisbee .',) 1.004765604051272e-08
+('a group of people standing in a room .',) 1.0043237352874712e-08
+('a man standing in front of a train .',) 1.0029437724767831e-08
+('a woman in a red dress standing in front of a bus .',) 1.0029370223207934e-08
+('a man in a suit and tie standing next to a woman .',) 1.0082119139553924e-08
+('a group of people playing a game of tennis .',) 1.0020825058631999e-08
+('a group of people standing around a luggage carousel .',) 1.0024036711797635e-08
+('a little boy standing in front of an open refrigerator .',) 1.0012239037848758e-08
+('a woman walking down the street with a suitcase .',) 1.0046130149987675e-08
+('a group of people standing on a sidewalk .',) 1.0013645024287143e-08
+('a man and a woman walking down a street .',) 1.0078833767579454e-08
+('a picture of a man in a suit and tie .',) 1.0026442787136602e-08
+('a little girl sitting on top of a white toilet .',) 1.0074990619557411e-08
+('a little boy sitting on a toilet seat .',) 1.001907712350203e-08
+('a woman standing in front of a refrigerator .',) 1.0046282916675864e-08
+('a woman sitting on a bed next to a teddy bear .',) 1.000627936065257e-08
+('a woman sitting in a chair holding a teddy bear .',) 1.0005932971068887e-08
+('a little girl standing in front of a refrigerator .',) 1.0056554700099696e-08
+('a woman is standing in front of a mirror',) 1.0060820621049515e-08
+('a bathroom with a shower and a sink .',) 1.001090232932711e-08
+('a man standing next to a train on a train track .',) 1.0014510110067931e-08
+('a man is standing in front of a truck',) 1.0020029250767948e-08
+('a man sitting in the back of a red truck .',) 1.000509275428385e-08
+('a small dog is sitting in the back of a car .',) 1.0012744411369567e-08
+('a man sitting in the back of a truck .',) 1.0010874795796099e-08
+('a man standing in front of a bathroom mirror .',) 1.0024513663609014e-08
+('a woman holding a cell phone in her hand .',) 1.0064429289968757e-08
+('a group of people sitting on a bus .',) 1.001854332827179e-08
+('a woman in a white shirt and a black tie',) 1.0000627881368018e-08
+('a woman sitting in a chair in a room .',) 1.0015652307515666e-08
+('a woman sitting on a train with her legs crossed .',) 1.0015527074358488e-08
+('a woman in a white shirt is holding a cellphone',) 1.0092376712123041e-08
+('a woman in a dress holding a cell phone .',) 1.007096805949459e-08
+('a man and a woman are looking at a cell phone .',) 1.0062917610298427e-08
+('a woman in a white dress and a man with a tie .',) 1.0066489863902461e-08
+('a young boy in the water with a boogie board .',) 1.0008180062470728e-08
+('a young boy is holding a boogie board .',) 1.0006625750236253e-08
+('a blue and white vase sitting on top of a table .',) 1.0011808271315203e-08
+('a large swimming pool in the water .',) 1.0009135742450326e-08
+('a city street filled with lots of traffic .',) 1.002914729042459e-08
+('a young boy is sitting on a surfboard .',) 1.001984362147823e-08
+('a man and a dog are swimming in the water .',) 1.0017143559082342e-08
+('a group of women standing next to each other .',) 1.0036898423493312e-08
+('a group of young people standing next to each other .',) 1.0015444473765456e-08
+('a group of people standing on top of a tennis court .',) 1.000856020283436e-08
+('a young boy riding a surfboard on a wave .',) 1.0005829054193782e-08
+('a man riding a wave on top of a surfboard .',) 1.0008452733245576e-08
+('a group of people in a pool playing with a frisbee .',) 1.0013080142812214e-08
+('a woman and a man are standing in a room .',) 1.0083419432760365e-08
+('a bride and groom cut their wedding cake .',) 1.0038716524718438e-08
+('a man in a black shirt and a tie .',) 1.0039137521289376e-08
+('a man wearing glasses and a tie is smiling .',) 1.005008609666902e-08
+('a man wearing a white shirt and tie .',) 1.0095604352500231e-08
+('a man wearing glasses and a hat on a motorcycle .',) 1.0041016018647042e-08
+('a woman in a black shirt and a black tie',) 1.0000540839882888e-08
+('a young boy is brushing his teeth in the mirror .',) 1.0015009266339803e-08
+('a woman wearing a tie and a dress shirt .',) 1.009030725640514e-08
+('a woman sitting on a toilet in a bathroom .',) 1.0029594932348118e-08
+('a crowd of people standing around a building .',) 1.0051011578582347e-08
+('a group of people standing on a street holding umbrellas .',) 1.0010927198322861e-08
+('a group of people standing on a street holding kites .',) 1.0020179352920877e-08
+('a group of people standing around a large group of people .',) 1.0011365070283773e-08
+('a woman in a white dress holding a pink umbrella .',) 1.0038669451262194e-08
+('a crowd of people standing around a stage .',) 1.0055487997817636e-08
+('a group of young men playing a game of soccer .',) 1.000835236908415e-08
+('a group of people on a stage with a group of people .',) 1.0010007045480052e-08
+('a close up of a person holding a pair of scissors',) 1.0022962015909798e-08
+('a couple of people standing next to each other .',) 1.0021815377569965e-08
+('a woman standing next to a man on a train .',) 1.0058635702137053e-08
+('a man standing next to a woman in a train station .',) 1.004795358028332e-08
+('a man standing next to a luggage cart .',) 1.0028676555862148e-08
+('a man standing on a sidewalk holding a skateboard .',) 1.0008802675542938e-08
+('a woman standing in front of an airport terminal .',) 1.0043681442084562e-08
+('a couple of men standing next to each other .',) 1.0037743969348867e-08
+('a group of people standing around a luggage cart .',) 1.0018958995772209e-08
+('a woman standing in a room with a suitcase .',) 1.0086732338265847e-08
+('a man and a woman standing next to a train .',) 1.0053504695406446e-08
+('a woman standing on a sidewalk talking on a cell phone .',) 1.0037310538280053e-08
+('a group of people standing on a tennis court .',) 1.0010141160421426e-08
+('a group of people standing around a giant clock .',) 1.001045824011726e-08
+('a collage of photos with a bunch of signs',) 1.00059560637078e-08
+
+('a collage of photos with a clock on a wall',) 1.0005714479177641e-08
+('a collage of photos with a lot of people',) 9.99999993922529e-09
+('a collage of photos with a clock and a sign',) 1.000094673742069e-08
+0it [00:00, ?it/s]1077it [00:00, 10766.34it/s]2197it [00:00, 10983.13it/s]3293it [00:00, 10972.67it/s]4377it [00:00, 10937.33it/s]5467it [00:00, 10928.59it/s]6576it [00:00, 10954.31it/s]7672it [00:00, 10953.88it/s]8763it [00:00, 10948.35it/s]9841it [00:00, 10929.00it/s]10932it [00:01, 10926.11it/s]12043it [00:01, 10942.23it/s]13167it [00:01, 10966.61it/s]14263it [00:01, 10965.86it/s]15355it [00:01, 10954.39it/s]16449it [00:01, 10952.82it/s]17542it [00:01, 10951.04it/s]18668it [00:01, 10968.95it/s]19769it [00:01, 10958.16it/s]20879it [00:01, 10965.51it/s]21978it [00:02, 10949.02it/s]23087it [00:02, 10955.36it/s]24198it [00:02, 10962.27it/s]25310it [00:02, 10969.05it/s]26420it [00:02, 10974.16it/s]27525it [00:02, 10972.42it/s]28627it [00:02, 10959.34it/s]29718it [00:02, 10950.86it/s]30818it [00:02, 10952.58it/s]31915it [00:02, 10952.93it/s]33007it [00:03, 10937.13it/s]34088it [00:03, 10932.92it/s]35199it [00:03, 10938.30it/s]36291it [00:03, 10937.61it/s]37394it [00:03, 10940.12it/s]38488it [00:03, 10922.18it/s]39580it [00:03, 10922.06it/s]40686it [00:03, 10925.55it/s]41795it [00:03, 10929.66it/s]42890it [00:03, 10926.09it/s]43980it [00:04, 10921.42it/s]45082it [00:04, 10923.71it/s]46203it [00:04, 10930.37it/s]47308it [00:04, 10933.03it/s]48409it [00:04, 10921.74it/s]49494it [00:04, 10916.58it/s]50595it [00:04, 10918.49it/s]51707it [00:04, 10922.72it/s]52832it [00:04, 10929.40it/s]53935it [00:04, 10926.42it/s]55031it [00:05, 10922.42it/s]56142it [00:05, 10926.03it/s]57271it [00:05, 10932.81it/s]58377it [00:05, 10929.98it/s]59477it [00:05, 10931.09it/s]60575it [00:05, 10927.77it/s]61686it [00:05, 10930.99it/s]62783it [00:05, 10926.13it/s]63871it [00:05, 10922.24it/s]64973it [00:05, 10923.75it/s]66062it [00:06, 10915.04it/s]67176it [00:06, 10918.62it/s]68296it [00:06, 10922.99it/s]69392it [00:06, 10919.74it/s]70481it [00:06, 10917.97it/s]71568it [00:06, 10913.20it/s]72693it [00:06, 10918.12it/s]73818it [00:06, 10923.01it/s]74921it [00:06, 10920.96it/s]76042it [00:06, 10925.04it/s]77145it [00:07, 10918.16it/s]78253it [00:07, 10920.42it/s]79346it [00:07, 10917.91it/s]80433it [00:07, 10915.31it/s]81529it [00:07, 10915.85it/s]82616it [00:07, 10910.97it/s]83694it [00:07, 10904.89it/s]84767it [00:07, 10902.53it/s]85845it [00:07, 10900.85it/s]86946it [00:07, 10902.14it/s]88027it [00:08, 10893.61it/s]89108it [00:08, 10892.52it/s]90186it [00:08, 10891.11it/s]91258it [00:08, 10888.57it/s]92359it [00:08, 10890.00it/s]93439it [00:08, 10887.13it/s]94515it [00:08, 10885.45it/s]95641it [00:08, 10889.64it/s]96731it [00:08, 10887.87it/s]97835it [00:08, 10889.47it/s]98926it [00:09, 10887.86it/s]100012it [00:09, 10885.78it/s]101093it [00:09, 10881.25it/s]102179it [00:09, 10880.94it/s]103284it [00:09, 10882.69it/s]104369it [00:09, 10880.95it/s]105450it [00:09, 10879.91it/s]106530it [00:09, 10878.86it/s]107610it [00:09, 10877.77it/s]108689it [00:09, 10873.59it/s]109759it [00:10, 10868.50it/s]110838it [00:10, 10867.67it/s]111911it [00:10, 10866.24it/s]112979it [00:10, 10861.54it/s]114038it [00:10, 10856.38it/s]115098it [00:10, 10853.95it/s]116172it [00:10, 10852.83it/s]117243it [00:10, 10851.44it/s]118306it [00:10, 10849.41it/s]119369it [00:11, 10846.15it/s]120430it [00:11, 10844.01it/s]121496it [00:11, 10842.35it/s]122558it [00:11, 10838.13it/s]123634it [00:11, 10837.35it/s]124700it [00:11, 10835.75it/s]125762it [00:11, 10833.12it/s]126852it [00:11, 10833.64it/s]127921it [00:11, 10826.97it/s]128982it [00:11, 10825.15it/s]130036it [00:12, 10820.10it/s]131133it [00:12, 10821.33it/s]132248it [00:12, 10823.98it/s]133326it [00:12, 10823.55it/s]134425it [00:12, 10824.84it/s]135509it [00:12, 10819.74it/s]136605it [00:12, 10820.79it/s]137734it [00:12, 10824.42it/s]138839it [00:12, 10826.14it/s]139934it [00:12, 10825.43it/s]141023it [00:13, 10825.74it/s]142117it [00:13, 10826.58it/s]143231it [00:13, 10828.93it/s]144344it [00:13, 10831.13it/s]145446it [00:13, 10832.12it/s]146546it [00:13, 10830.53it/s]147652it [00:13, 10832.21it/s]148746it [00:13, 10830.61it/s]149878it [00:13, 10834.13it/s]150977it [00:13, 10834.34it/s]152072it [00:14, 10832.85it/s]153180it [00:14, 10834.59it/s]154273it [00:14, 10834.05it/s]155361it [00:14, 10832.55it/s]156461it [00:14, 10833.70it/s]157547it [00:14, 10833.10it/s]158630it [00:14, 10831.62it/s]159707it [00:14, 10831.00it/s]160826it [00:14, 10833.39it/s]161915it [00:14, 10833.31it/s]163002it [00:15, 10832.10it/s]164083it [00:15, 10831.46it/s]165194it [00:15, 10833.25it/s]166282it [00:15, 10830.51it/s]167357it [00:15, 10828.72it/s]168426it [00:15, 10824.22it/s]169506it [00:15, 10824.00it/s]170567it [00:15, 10820.33it/s]171651it [00:15, 10820.42it/s]172763it [00:15, 10822.27it/s]173847it [00:16, 10822.34it/s]174926it [00:16, 10819.90it/s]175997it [00:16, 10819.17it/s]177066it [00:16, 10818.26it/s]178153it [00:16, 10818.52it/s]179227it [00:16, 10815.63it/s]180308it [00:16, 10815.56it/s]181377it [00:16, 10814.77it/s]182453it [00:16, 10814.40it/s]183533it [00:16, 10814.26it/s]184606it [00:17, 10812.33it/s]185729it [00:17, 10814.72it/s]186812it [00:17, 10814.48it/s]187894it [00:17, 10811.55it/s]188961it [00:17, 10810.44it/s]190027it [00:17, 10805.10it/s]191071it [00:17, 10803.00it/s]192133it [00:17, 10801.95it/s]193208it [00:17, 10801.66it/s]194265it [00:17, 10800.02it/s]195353it [00:18, 10800.45it/s]196418it [00:18, 10799.49it/s]197483it [00:18, 10798.65it/s]198558it [00:18, 10798.34it/s]199626it [00:18, 10797.33it/s]200692it [00:18, 10795.52it/s]201771it [00:18, 10795.46it/s]202837it [00:18, 10793.39it/s]203916it [00:18, 10793.35it/s]204981it [00:18, 10790.07it/s]206042it [00:19, 10789.12it/s]207116it [00:19, 10788.83it/s]208176it [00:19, 10782.44it/s]209285it [00:19, 10784.01it/s]210366it [00:19, 10784.12it/s]211429it [00:19, 10783.11it/s]212541it [00:19, 10784.78it/s]213664it [00:19, 10787.02it/s]214780it [00:19, 10788.85it/s]215878it [00:20, 10789.26it/s]216973it [00:20, 10787.31it/s]218052it [00:20, 10781.12it/s]219098it [00:20, 10755.01it/s]220160it [00:20, 10754.31it/s]221175it [00:20, 10751.36it/s]222303it [00:20, 10753.89it/s]223335it [00:20, 10751.44it/s]224449it [00:20, 10753.29it/s]225504it [00:20, 10748.43it/s]226537it [00:21, 10744.20it/s]227627it [00:21, 10744.91it/s]228674it [00:21, 10743.58it/s]229804it [00:21, 10746.15it/s]230911it [00:21, 10747.62it/s]231991it [00:21, 10746.51it/s]233076it [00:21, 10746.96it/s]234194it [00:21, 10748.93it/s]235282it [00:21, 10749.33it/s]236369it [00:21, 10748.99it/s]237450it [00:22, 10746.69it/s]238576it [00:22, 10748.99it/s]239715it [00:22, 10751.84it/s]240846it [00:22, 10754.33it/s]241956it [00:22, 10752.26it/s]243057it [00:22, 10753.40it/s]244148it [00:22, 10752.70it/s]245249it [00:22, 10753.80it/s]246336it [00:22, 10754.28it/s]247423it [00:23, 10752.68it/s]248530it [00:23, 10754.05it/s]249666it [00:23, 10756.62it/s]250765it [00:23, 10756.51it/s]251856it [00:23, 10756.62it/s]252944it [00:23, 10757.01it/s]254031it [00:23, 10756.46it/s]255144it [00:23, 10758.01it/s]256286it [00:23, 10760.75it/s]257419it [00:23, 10763.10it/s]258533it [00:24, 10761.47it/s]259625it [00:24, 10761.42it/s]260742it [00:24, 10763.08it/s]261838it [00:24, 10763.71it/s]262962it [00:24, 10765.64it/s]264091it [00:24, 10767.74it/s]265202it [00:24, 10767.99it/s]266305it [00:24, 10768.18it/s]267443it [00:24, 10770.61it/s]268552it [00:24, 10771.89it/s]269674it [00:25, 10773.66it/s]270787it [00:25, 10774.94it/s]271899it [00:25, 10775.87it/s]273008it [00:25, 10775.66it/s]274148it [00:25, 10778.08it/s]275258it [00:25, 10778.41it/s]276361it [00:25, 10778.93it/s]277461it [00:25, 10779.19it/s]278556it [00:25, 10779.54it/s]279666it [00:25, 10780.76it/s]280779it [00:26, 10782.08it/s]281882it [00:26, 10782.53it/s]283021it [00:26, 10784.83it/s]284142it [00:26, 10786.42it/s]285273it [00:26, 10788.38it/s]286392it [00:26, 10789.64it/s]287509it [00:26, 10790.12it/s]288629it [00:26, 10791.64it/s]289742it [00:26, 10792.54it/s]290853it [00:26, 10793.72it/s]291963it [00:27, 10794.79it/s]293092it [00:27, 10796.59it/s]294208it [00:27, 10797.09it/s]295317it [00:27, 10797.54it/s]296454it [00:27, 10799.60it/s]297568it [00:27, 10799.71it/s]298673it [00:27, 10799.70it/s]299778it [00:27, 10800.59it/s]300878it [00:27, 10800.78it/s]301984it [00:27, 10801.68it/s]303083it [00:28, 10801.13it/s]304216it [00:28, 10803.01it/s]305318it [00:28, 10801.94it/s]306411it [00:28, 10802.39it/s]307500it [00:28, 10802.08it/s]308602it [00:28, 10802.83it/s]309741it [00:28, 10804.85it/s]310845it [00:28, 10804.63it/s]311978it [00:28, 10806.42it/s]313085it [00:28, 10806.68it/s]314186it [00:29, 10807.24it/s]315286it [00:29, 10807.88it/s]316386it [00:29, 10806.55it/s]317515it [00:29, 10808.17it/s]318612it [00:29, 10808.25it/s]319705it [00:29, 10807.86it/s]320791it [00:29, 10807.59it/s]321905it [00:29, 10808.70it/s]322997it [00:29, 10807.81it/s]324103it [00:29, 10808.63it/s]325191it [00:30, 10808.28it/s]326309it [00:30, 10809.49it/s]327443it [00:30, 10811.24it/s]328549it [00:30, 10810.93it/s]329645it [00:30, 10810.40it/s]330732it [00:30, 10810.57it/s]331864it [00:30, 10812.22it/s]332985it [00:30, 10813.50it/s]334120it [00:30, 10815.21it/s]335235it [00:30, 10815.73it/s]336345it [00:31, 10816.06it/s]337475it [00:31, 10817.60it/s]338610it [00:31, 10819.30it/s]339729it [00:31, 10819.89it/s]340843it [00:31, 10820.60it/s]341954it [00:31, 10820.59it/s]343056it [00:31, 10820.53it/s]344152it [00:31, 10820.91it/s]345247it [00:31, 10820.95it/s]346339it [00:32, 10819.73it/s]347417it [00:32, 10818.60it/s]348534it [00:32, 10819.68it/s]349617it [00:32, 10815.64it/s]350695it [00:32, 10815.51it/s]351786it [00:32, 10815.78it/s]352913it [00:32, 10817.16it/s]354042it [00:32, 10818.57it/s]355175it [00:32, 10820.12it/s]356307it [00:32, 10821.61it/s]357423it [00:33, 10821.80it/s]358543it [00:33, 10822.94it/s]359680it [00:33, 10824.57it/s]360813it [00:33, 10826.07it/s]361949it [00:33, 10827.65it/s]363076it [00:33, 10827.78it/s]364191it [00:33, 10827.42it/s]365313it [00:33, 10828.57it/s]366421it [00:33, 10829.09it/s]367527it [00:33, 10829.66it/s]368632it [00:34, 10829.80it/s]369752it [00:34, 10830.87it/s]370895it [00:34, 10832.60it/s]372032it [00:34, 10834.14it/s]373159it [00:34, 10835.40it/s]374283it [00:34, 10835.61it/s]375407it [00:34, 10836.78it/s]376524it [00:34, 10836.84it/s]377668it [00:34, 10838.55it/s]378787it [00:34, 10838.82it/s]379898it [00:35, 10838.91it/s]381016it [00:35, 10839.87it/s]382142it [00:35, 10841.04it/s]383256it [00:35, 10840.36it/s]384402it [00:35, 10842.11it/s]385515it [00:35, 10842.39it/s]386632it [00:35, 10843.28it/s]387754it [00:35, 10844.33it/s]388874it [00:35, 10845.32it/s]390001it [00:35, 10846.47it/s]391120it [00:36, 10846.33it/s]392227it [00:36, 10846.45it/s]393367it [00:36, 10847.96it/s]394480it [00:36, 10848.34it/s]395589it [00:36, 10847.46it/s]396682it [00:36, 10847.44it/s]397827it [00:36, 10849.06it/s]398934it [00:36, 10849.11it/s]400000it [00:36, 10849.06it/s]
+UNUSED VALUES IN CONFIG DICT: {'batch_size': 128, 'dataindexer_load_path': 'data/models/baseline_siamese/00/baseline_siamese-00-DataManager.pkl', 'early_stopping_patience': 0, 'log_dir': 'logs/', 'log_period': 10, 'model_load_dir': 'data/models/baseline_siamese/00', 'model_name': 'predict_model', 'num_epochs': 10, 'num_sentence_words': 30, 'pretrained_embeddings_file_path': 'data/glove.6B.300d.txt', 'reweight_predictions_for_kaggle': False, 'run_id': '99', 'test_file': 'test_final2.csv', 'val_period': 250}
+/home/byeon/anaconda3/envs/py3/lib/python3.6/site-packages/tensorflow/python/ops/gradients_impl.py:93: UserWarning: Converting sparse IndexedSlices to a dense Tensor of unknown shape. This may consume a large amount of memory.
+  "Converting sparse IndexedSlices to a dense Tensor of unknown shape. "
+  0%|          | 0/169 [00:00<?, ?it/s]100%|██████████| 169/169 [00:00<00:00, 1073996.02it/s]['0,a woman wearing sunglasses and a hat on her head.,a man is flying through the air on a snowboard.', '1,a woman wearing sunglasses and a hat on her head.,a person flying through the air while riding a snowboard.', '2,a woman wearing sunglasses and a hat on her head.,a person holding a pair of scissors in their hands.', '3,a woman wearing sunglasses and a hat on her head.,a man in a white shirt and tie in a room.', '4,a woman wearing sunglasses and a hat on her head.,a woman holding a kite in her hand.', '5,a woman wearing sunglasses and a hat on her head.,a woman standing in front of a white building.', '6,a woman wearing sunglasses and a hat on her head.,a close up of a person on a motorcyce', '7,a woman wearing sunglasses and a hat on her head.,a woman wearing sunglasses and a hat on her head.', '8,a woman wearing sunglasses and a hat on her head.,a woman wearing sunglasses and a hat and sunglasses.', '9,a woman wearing sunglasses and a hat on her head.,a man wearing sunglasses and a hat and sunglasses.', '10,a woman wearing sunglasses and a hat on her head.,a man wearing sunglasses and a tie is smiling.', '11,a woman wearing sunglasses and a hat on her head.,a woman holding a tennis racket in her hand.', '12,a woman wearing sunglasses and a hat on her head.,a woman wearing a white shirt and tie.', '13,a woman wearing sunglasses and a hat on her head.,a woman holding a kite in front of a crowd of people.', '14,a woman wearing sunglasses and a hat on her head.,a woman holding an umbrella in the rain.', '15,a woman wearing sunglasses and a hat on her head.,a woman sitting on the floor under an umbrella.', '16,a woman wearing sunglasses and a hat on her head.,a group of people walking down a street holding umbrellas.', '17,a woman wearing sunglasses and a hat on her head.,a group of people sitting on top of a sandy beach.', '18,a woman wearing sunglasses and a hat on her head.,a group of people standing in front of a train.', '19,a woman wearing sunglasses and a hat on her head.,a group of people standing around a horse.', '20,a woman wearing sunglasses and a hat on her head.,a group of people standing around a train.', '21,a woman wearing sunglasses and a hat on her head.,a group of people sitting on a bench.', '22,a woman wearing sunglasses and a hat on her head.,a woman in a blue dress holding a pink frisbee.', '23,a woman wearing sunglasses and a hat on her head.,a man walking down a sidewalk next to a tall building.', '24,a woman wearing sunglasses and a hat on her head.,a man on a skateboard in front of a building.', '25,a woman wearing sunglasses and a hat on her head.,a brown horse standing next to a wooden fence.', '26,a woman wearing sunglasses and a hat on her head.,a man and a woman sitting on a beach.', '27,a woman wearing sunglasses and a hat on her head.,a woman is talking on her cell phoe', '28,a woman wearing sunglasses and a hat on her head.,a man standing in front of a train station.', '29,a woman wearing sunglasses and a hat on her head.,a man in a white shirt and tie standing in a room.', '30,a woman wearing sunglasses and a hat on her head.,a large building with a clock on t', '31,a woman wearing sunglasses and a hat on her head.,a group of people walking down a street.', '32,a woman wearing sunglasses and a hat on her head.,a group of people standing on top of a beach.', '33,a woman wearing sunglasses and a hat on her head.,a man is holding a skateboard in the air.', '34,a woman wearing sunglasses and a hat on her head.,a man in a suit and tie standing in the snow.', '35,a woman wearing sunglasses and a hat on her head.,a man holding a snow board in the snow.', '36,a woman wearing sunglasses and a hat on her head.,a statue of a person holding a white umbrella.', '37,a woman wearing sunglasses and a hat on her head.,a group of people standing in the water.', '38,a woman wearing sunglasses and a hat on her head.,a couple of women standing next to each other.', '39,a woman wearing sunglasses and a hat on her head.,a group of people standing next to each other.', '40,a woman wearing sunglasses and a hat on her head.,a man and woman in a wedding dress.', '41,a woman wearing sunglasses and a hat on her head.,a man wearing a hat and a bow tie.', '42,a woman wearing sunglasses and a hat on her head.,a man in a suit and bow tie is smiling.', '43,a woman wearing sunglasses and a hat on her head.,a bride and groom standing next to each other.', '44,a woman wearing sunglasses and a hat on her head.,a couple of women sitting on a wooden bench.', '45,a woman wearing sunglasses and a hat on her head.,a man and a woman sitting on a bed.', '46,a woman wearing sunglasses and a hat on her head.,a couple of men sitting on top of a wooden bench.', '47,a woman wearing sunglasses and a hat on her head.,two men sitting on a bench in a park.', '48,a woman wearing sunglasses and a hat on her head.,a man and woman standing next to each other.', '49,a woman wearing sunglasses and a hat on her head.,a woman is walking down the street with a cell phone.', '50,a woman wearing sunglasses and a hat on her head.,a baseball player holding a bat on a field.', '51,a woman wearing sunglasses and a hat on her head.,a group of young men sitting on top of a wooden bench.', '52,a woman wearing sunglasses and a hat on her head.,a couple of women sitting next to each other.', '53,a woman wearing sunglasses and a hat on her head.,a man and a woman standing in a room.', '54,a woman wearing sunglasses and a hat on her head.,a man in a suit and tie standing in front of a building.', '55,a woman wearing sunglasses and a hat on her head.,a man and a woman in a room.', '56,a woman wearing sunglasses and a hat on her head.,a man holding a tennis racquet on a tennis court.', '57,a woman wearing sunglasses and a hat on her head.,a man holding a baseball bat in his hands.', '58,a woman wearing sunglasses and a hat on her head.,a man in a suit and tie standing in a field.', '59,a woman wearing sunglasses and a hat on her head.,a man holding a baseball bat on a field.', '60,a woman wearing sunglasses and a hat on her head.,a man and a woman standing next to each other.', '61,a woman wearing sunglasses and a hat on her head.,a man wearing a bow tie and a bow tie.', '62,a woman wearing sunglasses and a hat on her head.,a man wearing a bow tie and a hat.', '63,a woman wearing sunglasses and a hat on her head.,a group of people standing in front of a building.', '64,a woman wearing sunglasses and a hat on her head.,a group of people standing around a building.', '65,a woman wearing sunglasses and a hat on her head.,a group of people playing a game of basketball.', '66,a woman wearing sunglasses and a hat on her head.,a group of men standing next to each other.', '67,a woman wearing sunglasses and a hat on her head.,a woman standing on a sidewalk next to a street.', '68,a woman wearing sunglasses and a hat on her head.,a group of young people playing a game of frisbee.', '69,a woman wearing sunglasses and a hat on her head.,a woman in a red shirt is playing frisbe', '70,a woman wearing sunglasses and a hat on her head.,a person on a skateboard on a street.', '71,a woman wearing sunglasses and a hat on her head.,a group of young men standing next to each other.', '72,a woman wearing sunglasses and a hat on her head.,a woman in a dress holding a teddy bear.', '73,a woman wearing sunglasses and a hat on her head.,a woman in a red dress is playing tennis.', '74,a woman wearing sunglasses and a hat on her head.,a woman in a red dress standing in front of a building.', '75,a woman wearing sunglasses and a hat on her head.,a group of people riding horses down a dirt road.', '76,a woman wearing sunglasses and a hat on her head.,a group of people standing on top of a sandy beach.', '77,a woman wearing sunglasses and a hat on her head.,a group of people sitting in a room.', '78,a woman wearing sunglasses and a hat on her head.,a man and a woman sitting on a couch.', '79,a woman wearing sunglasses and a hat on her head.,a woman in a red shirt and a black te', '80,a woman wearing sunglasses and a hat on her head.,a small boat in a body of watr', '81,a woman wearing sunglasses and a hat on her head.,a man is riding a boat in the water.', '82,a woman wearing sunglasses and a hat on her head.,a woman is holding a tennis racket on a cout', '83,a woman wearing sunglasses and a hat on her head.,a woman in a red shirt is playing tenns', '84,a woman wearing sunglasses and a hat on her head.,a woman holding a red and white surfboard.', '85,a woman wearing sunglasses and a hat on her head.,a man and a woman standing on a field with a frisbee.', '86,a woman wearing sunglasses and a hat on her head.,a group of people standing in a room.', '87,a woman wearing sunglasses and a hat on her head.,a man standing in front of a train.', '88,a woman wearing sunglasses and a hat on her head.,a woman in a red dress standing in front of a bus.', '89,a woman wearing sunglasses and a hat on her head.,a man in a suit and tie standing next to a woman.', '90,a woman wearing sunglasses and a hat on her head.,a group of people playing a game of tennis.', '91,a woman wearing sunglasses and a hat on her head.,a group of people standing around a luggage carousel.', '92,a woman wearing sunglasses and a hat on her head.,a little boy standing in front of an open refrigerator.', '93,a woman wearing sunglasses and a hat on her head.,a woman walking down the street with a suitcase.', '94,a woman wearing sunglasses and a hat on her head.,a group of people standing on a sidewalk.', '95,a woman wearing sunglasses and a hat on her head.,a man and a woman walking down a street.', '96,a woman wearing sunglasses and a hat on her head.,a picture of a man in a suit and tie.', '97,a woman wearing sunglasses and a hat on her head.,a little girl sitting on top of a white toilet.', '98,a woman wearing sunglasses and a hat on her head.,a little boy sitting on a toilet seat.', '99,a woman wearing sunglasses and a hat on her head.,a woman standing in front of a refrigerator.', '100,a woman wearing sunglasses and a hat on her head.,a woman sitting on a bed next to a teddy bear.', '101,a woman wearing sunglasses and a hat on her head.,a woman sitting in a chair holding a teddy bear.', '102,a woman wearing sunglasses and a hat on her head.,a little girl standing in front of a refrigerator.', '103,a woman wearing sunglasses and a hat on her head.,a woman is standing in front of a mirrr', '104,a woman wearing sunglasses and a hat on her head.,a bathroom with a shower and a sink.', '105,a woman wearing sunglasses and a hat on her head.,a man standing next to a train on a train track.', '106,a woman wearing sunglasses and a hat on her head.,a man is standing in front of a truk', '107,a woman wearing sunglasses and a hat on her head.,a man sitting in the back of a red truck.', '108,a woman wearing sunglasses and a hat on her head.,a small dog is sitting in the back of a car.', '109,a woman wearing sunglasses and a hat on her head.,a man sitting in the back of a truck.', '110,a woman wearing sunglasses and a hat on her head.,a man standing in front of a bathroom mirror.', '111,a woman wearing sunglasses and a hat on her head.,a woman holding a cell phone in her hand.', '112,a woman wearing sunglasses and a hat on her head.,a group of people sitting on a bus.', '113,a woman wearing sunglasses and a hat on her head.,a woman in a white shirt and a black te', '114,a woman wearing sunglasses and a hat on her head.,a woman sitting in a chair in a room.', '115,a woman wearing sunglasses and a hat on her head.,a woman sitting on a train with her legs crossed.', '116,a woman wearing sunglasses and a hat on her head.,a woman in a white shirt is holding a cellphoe', '117,a woman wearing sunglasses and a hat on her head.,a woman in a dress holding a cell phone.', '118,a woman wearing sunglasses and a hat on her head.,a man and a woman are looking at a cell phone.', '119,a woman wearing sunglasses and a hat on her head.,a woman in a white dress and a man with a tie.', '120,a woman wearing sunglasses and a hat on her head.,a young boy in the water with a boogie board.', '121,a woman wearing sunglasses and a hat on her head.,a young boy is holding a boogie board.', '122,a woman wearing sunglasses and a hat on her head.,a blue and white vase sitting on top of a table.', '123,a woman wearing sunglasses and a hat on her head.,a large swimming pool in the water.', '124,a woman wearing sunglasses and a hat on her head.,a city street filled with lots of traffic.', '125,a woman wearing sunglasses and a hat on her head.,a young boy is sitting on a surfboard.', '126,a woman wearing sunglasses and a hat on her head.,a man and a dog are swimming in the water.', '127,a woman wearing sunglasses and a hat on her head.,a group of women standing next to each other.', '128,a woman wearing sunglasses and a hat on her head.,a group of young people standing next to each other.', '129,a woman wearing sunglasses and a hat on her head.,a group of people standing on top of a tennis court.', '130,a woman wearing sunglasses and a hat on her head.,a young boy riding a surfboard on a wave.', '131,a woman wearing sunglasses and a hat on her head.,a man riding a wave on top of a surfboard.', '132,a woman wearing sunglasses and a hat on her head.,a group of people in a pool playing with a frisbee.', '133,a woman wearing sunglasses and a hat on her head.,a woman and a man are standing in a room.', '134,a woman wearing sunglasses and a hat on her head.,a bride and groom cut their wedding cake.', '135,a woman wearing sunglasses and a hat on her head.,a man in a black shirt and a tie.', '136,a woman wearing sunglasses and a hat on her head.,a man wearing glasses and a tie is smiling.', '137,a woman wearing sunglasses and a hat on her head.,a man wearing a white shirt and tie.', '138,a woman wearing sunglasses and a hat on her head.,a man wearing glasses and a hat on a motorcycle.', '139,a woman wearing sunglasses and a hat on her head.,a woman in a black shirt and a black te', '140,a woman wearing sunglasses and a hat on her head.,a young boy is brushing his teeth in the mirror.', '141,a woman wearing sunglasses and a hat on her head.,a woman wearing a tie and a dress shirt.', '142,a woman wearing sunglasses and a hat on her head.,a woman sitting on a toilet in a bathroom.', '143,a woman wearing sunglasses and a hat on her head.,a crowd of people standing around a building.', '144,a woman wearing sunglasses and a hat on her head.,a group of people standing on a street holding umbrellas.', '145,a woman wearing sunglasses and a hat on her head.,a group of people standing on a street holding kites.', '146,a woman wearing sunglasses and a hat on her head.,a group of people standing around a large group of people.', '147,a woman wearing sunglasses and a hat on her head.,a woman in a white dress holding a pink umbrella.', '148,a woman wearing sunglasses and a hat on her head.,a crowd of people standing around a stage.', '149,a woman wearing sunglasses and a hat on her head.,a group of young men playing a game of soccer.', '150,a woman wearing sunglasses and a hat on her head.,a group of people on a stage with a group of people.', '151,a woman wearing sunglasses and a hat on her head.,a close up of a person holding a pair of scissos', '152,a woman wearing sunglasses and a hat on her head.,a couple of people standing next to each other.', '153,a woman wearing sunglasses and a hat on her head.,a woman standing next to a man on a train.', '154,a woman wearing sunglasses and a hat on her head.,a man standing next to a woman in a train station.', '155,a woman wearing sunglasses and a hat on her head.,a man standing next to a luggage cart.', '156,a woman wearing sunglasses and a hat on her head.,a man standing on a sidewalk holding a skateboard.', '157,a woman wearing sunglasses and a hat on her head.,a woman standing in front of an airport terminal.', '158,a woman wearing sunglasses and a hat on her head.,a couple of men standing next to each other.', '159,a woman wearing sunglasses and a hat on her head.,a group of people standing around a luggage cart.', '160,a woman wearing sunglasses and a hat on her head.,a woman standing in a room with a suitcase.', '161,a woman wearing sunglasses and a hat on her head.,a man and a woman standing next to a train.', '162,a woman wearing sunglasses and a hat on her head.,a woman standing on a sidewalk talking on a cell phone.', '163,a woman wearing sunglasses and a hat on her head.,a group of people standing on a tennis court.', '164,a woman wearing sunglasses and a hat on her head.,a group of people standing around a giant clock.', '165,a woman wearing sunglasses and a hat on her head.,a collage of photos with a bunch of sigs', '166,a woman wearing sunglasses and a hat on her head.,a collage of photos with a clock on a wal', '167,a woman wearing sunglasses and a hat on her head.,a collage of photos with a lot of peope', '168,a woman wearing sunglasses and a hat on her head.,a collage of photos with a clock and a sin']
+

@@ -1,0 +1,6 @@
+model_checkpoint_path: "convolutional-200"
+all_model_checkpoint_paths: "convolutional-160"
+all_model_checkpoint_paths: "convolutional-170"
+all_model_checkpoint_paths: "convolutional-180"
+all_model_checkpoint_paths: "convolutional-190"
+all_model_checkpoint_paths: "convolutional-200"
